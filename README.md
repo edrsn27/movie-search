@@ -1,4 +1,4 @@
-# movie-search
+# Top Movies
 
 ## Build Setup
 
