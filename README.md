@@ -24,3 +24,4 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 @nuxt/content
 
 https://content.nuxtjs.org/
+![alt text](https://github.com/edrsn27/movie-search/blob/main/assets/images/Capture.PNG)
