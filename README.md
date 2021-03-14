@@ -24,6 +24,6 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 @nuxt/content
 
 https://content.nuxtjs.org/
-![alt text](https://github.com/edrsn27/movie-search/blob/main/assets/images/Capture.PNG)
+![alt text](https://cdn.loom.com/sessions/thumbnails/08d28d76d4f2407e8438f85911ce0dc0-with-play.gif)
 
-![Output sample](https://www.loom.com/share/08d28d76d4f2407e8438f85911ce0dc0)
+
