@@ -33,6 +33,10 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: ["@nuxt/content"],
+  content: {
+    // Only search in title and description
+    fullTextSearchFields: ['Title','Genre','Director','Writer','Actors','Plot']
+  },
 
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
   vuetify: {},
