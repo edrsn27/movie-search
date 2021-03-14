@@ -26,6 +26,11 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 https://content.nuxtjs.org/
 
 
+@nuxtjs/vuetify
+
+https://vuetifyjs.com/
+
+
 ![alt text](https://cdn.loom.com/sessions/thumbnails/08d28d76d4f2407e8438f85911ce0dc0-with-play.gif)
 
 
