@@ -4,6 +4,12 @@ Build with Vue (nuxtjs framework) and Vuetify.
 Using nuxt-content for data fetching.
 ## Build Setup
 
+
+## Features
+
+Full-text search
+
+
 ```bash
 # install dependencies
 $ npm install
