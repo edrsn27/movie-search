@@ -3,6 +3,8 @@
 Build with Vue (nuxtjs framework) and Vuetify.
 Using nuxt-content for data fetching.
 
+Full Static search using nuxt/content
+
 ## Features
 
 Full-text search
