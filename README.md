@@ -39,6 +39,6 @@ https://content.nuxtjs.org/
 https://vuetifyjs.com/
 
 
-![alt text](https://cdn.loom.com/sessions/thumbnails/08d28d76d4f2407e8438f85911ce0dc0-with-play.gif)
+https://www.loom.com/share/08d28d76d4f2407e8438f85911ce0dc0
 
 
